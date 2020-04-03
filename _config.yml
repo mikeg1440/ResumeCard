@@ -1,7 +1,8 @@
 # Site settings
 title: Michael Gaudreau's Resume
 description: A web designed Resume for Michael Gaudreau
-favicon: /assets/img/avatar.JPG
+favicon: https://media-exp1.licdn.com/dms/image/C4E03AQFD1GcxLngF4Q/profile-displayphoto-shrink_200_200/0?e=1591228800&v=beta&t=tOEaCuQw1TNhRyoK-D62PIxT1q1mUSI3EVEc_EkEhPE
+# favicon: /assets/img/avatar.JPG
 # baseurl: https://ddbullfrog.github.io/resumecard
 # url: https://ddbullfrog.github.io/resumecard
 rss_url: /pages/atom.xml
@@ -87,6 +88,21 @@ author:
     - skill5:
       name: Java/Java EE
       percentage: 90%
+  skills:
+    - JavaScript
+    - HTML
+    - CSS
+    - Node.js
+    - Ruby
+    - Ruby on Rails
+    - Docker
+    - Virtualbox
+    - Vagrant
+    - Linux
+    - Microsoft Office Suite
+    - Photoshop
+    - Python
+    - Java
   technicalProjects:
     - project1:
       name: Invoicer
