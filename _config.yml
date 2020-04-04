@@ -58,13 +58,23 @@ author:
 
   educationHistory:
     - education1:
-      organization: XXXXXX University
-      location: Shenyang, China
-      degree: Bachelor
-      major: Software Engineering
-      started: 2005
-      duration: (2005 - 2009)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      organization: Flatiron School
+      location: Online
+      degree: Software Engineering Diploma
+      major: Full Stack Development
+      started: 2019
+      duration: (2019 - 2020)
+      description: 'A immersive course that launches students into fulfilling careers as software engineers, data scientists, and UX/UI designers through rigorous, market-aligned curricula, and the support of seasoned instructors and personal career coaches. Through test-driven labs and portfolio projects, Flatiron teaches students to think and build like software engineers and data scientists. Flatiron School’s UX/UI Design Immersive includes a client project to give students client-facing experience and an industry-vetted portfolio.  Rated #1 on Course Reports Best 48 Coding Bootcamps in 2019.'
+
+    - education2:
+      organization: Manchester Community College
+      location: Manchester, CT
+      degree: Bachlor Candidate
+      major: Computer Science
+      started: 2018
+      duration: (2018 - Present)
+      description: Named in the Presidents List in recognition of academic performance, attending part-time while working at Staples.  MCC is a rigorous calculus-based program designed to prepare students for transfer to Connecticut state institutions granting bachelor’s degrees.  Planning on attending Central Connecticut State University for the completion of my Bachlors in Computer Science.
+
   languages:
     - language1:
       name: Chinese
