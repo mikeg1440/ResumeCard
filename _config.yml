@@ -112,14 +112,29 @@ author:
     - Java
   technicalProjects:
     - project1:
-      name: Invoicer
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      name: Task App
+      repo: https://github.com/mikeg1440/task-app
+      demo: https://mikeg1440-tasks-app.herokuapp.com/
+      video: https://drive.google.com/open?id=17kDXwpxvHaMUwChwlnev6tlbocZDLt4X
+      description:  Task/todo manager application created using the SINATRA DSL with authentication. Separated app components in a logical way using MVC architecture to simplify debugging and app expansion.  Set up application with Sinatra DSL so that app can be used with any RACK based application stack.  Created relationships between models using Active Record so that app is database-agnostic.  Utilized BCrypt gem to securely store hashed passwords in database
+
     - project2:
-      name: Todo App
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      name: Freelance Finder
+      repo: https://github.com/mikeg1440/freelancer-finder
+      demo:
+      video: https://drive.google.com/open?id=1k7dg7TCwZS6UkDC3RwAOz0PulIOvlW72
+      description:  CLI app that displays freelancing job postings from Freelancer.com and allows users to query jobs based on search criteria or pay range.  Built as a Command Line Interface packaged as a Ruby gem for easy installation and use.  Enabled efficient debugging and future expansion through use of Object Oriented and RESTful architecture.  Utilized Nokogiri gem to scrape data from freelancer.com.  Implemented Active Record to provide CRUD functionality for managing data.  Enabled database independence and security by implementing Active Record for Object Relational Mapping
+
     - project3:
-      name: Moniez
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      name: Invoice Manager App
+      repo: https://github.com/mikeg1440/Invoicer-App
+      demo: https://mikeg1440-invoicer.herokuapp.com/
+      video: https://drive.google.com/open?id=1AhnXF991ZRH9X56wtGvWUDDa5LX6M7vB
+      description:  A Ruby on Rails application that allows users to create, edit and email invoices to clients, enables clients to accept or decline, and captures response activity in an app dashboard.  Enabled use of complex queries and easier deployment to Heroku configuring app with PostgreSQL database.  Provided multiple sign-in options by including GitHub OAuth to ease signup/in process for users.  Facilitated notification to clients by implementing ActionMailer with SendGrid email API. Enabled safe handling of passwords and keys by using rails credential encryption.  Created eye caching interface using Bootstrap 4 CSS styles
+
     - project4:
-      name: Freelancer
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      name: Moniez
+      repo: https://github.com/mikeg1440/Moniez
+      demo:
+      video: https://drive.google.com/open?id=1dlhSoH2zK2El-6QKSr8-thd8cVGPGhcP
+      description:  Budgeting application where users create budgets and view an expense breakdown of where their money is being spent to determine how to minimize expenses and maximize savings.  Enabled use of complex queries and easier deployment to Heroku configuring app with PostgreSQL database.  Utilized a Ruby on Rails API for backend data management for persistent data storage.  Frontend written in React.js to provide a responsive user interface.  Enabled safe handling of passwords through use of Devise and BCrypt gems.  Implemented with reusable components to enhance developer productivity and expansion
