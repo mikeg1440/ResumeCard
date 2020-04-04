@@ -33,26 +33,29 @@ author:
 #  stackoverflow: 4582127
   workHistory:
     - work1:
-      company: XXX Ltd
-      location: Hartford, Connecticut
-      title: Software Developer
-      started: 2014
-      duration: (2014 - Present)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: Staples
+      location: Glastonbury, Connecticut
+      title: Team Supervisor
+      started: 2016
+      duration: (2016 - Present)
+      description: Responsible for training associates on technical skills including data backups/transfers, part replacements/installations, operating system installations, as well as customer service best practices.  Recognized by the Office of the President for providing a customer centric environment and developing customer relationships.  Assist at locations with poor metrics in renovations/ planogram refreshes to improve sales and overall customer satisfaction.  Responsible for ensuring associates have offered applicable services and identified customer needs when giving access to high ticket items in lock up to drive maximum profitability.  Perform quality checking for Copy & Print production jobs to ensure customer satisfaction.  Generate leads for large production jobs for businesses.  Perform inventory management to ensure product is stocked and correctly accounted.  Manage departments associates when acting as Manager on Duty to direct associates toward company objectives.
+
     - work2:
-      company: XXX Ltd
+      company: Freelance
       location: Shanghai, China
-      title: Software Developer
-      started: 2012
-      duration: (2012 - 2014)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      title: Handyman/Home Improvement
+      started: 2014
+      duration: (2014 - 2016)
+      description: Determined required services/labor/supplies for job bids.  Performed repair & maintenance of interior facilities (bathroom, kitchen, floor/carpet installations).  Sourced and hired contractors for larger projects that required permits or licensing, working closely with contractors to meet goals for timelines and budget constraints.  Assisted with installation of appliances and proper disposal of old units.  Performed general maintenance tasks and repairs to keep appliances and facilities in working order.
+
     - work3:
-      company: XXX Ltd
-      location: Shanghai, China
-      title: Software Developer
-      started: 2009
-      duration: (2009 - 2012)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: CVS
+      location: Glastonbury, CT
+      title: Photolab Supervisor
+      started: 2010
+      duration: (2010 - 2014)
+      description: Coordinated and trained associates in photo lab equipment, kiosks and related technologies maintenance tasks.  Developed film and performed required equipment tests to ensure quality of photo production.  Developed close relationships with customers to drive customer satisfaction.  Ensured all Photo Lab employees comply with Federal and State laws and OSHA regulations.  Trained associates and ensured proper disposal of hazardous wastes to maintain a safe environment.  Assisted customers in all non-pharmaceutical areas of the store to ensure customer satisfaction.  Performed inventory counts and price changes to ensure products were in stock and rotated according to expiration.  Managed products and upheld proper facing/display of products to drive sales in addition to photo lab duties.
+
   educationHistory:
     - education1:
       organization: XXXXXX University
