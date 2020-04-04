@@ -77,14 +77,8 @@ author:
 
   languages:
     - language1:
-      name: Chinese
-      proficiency: Native
-    - language2:
       name: English
-      proficiency: Professional
-    - language3:
-      name: Japanese
-      proficiency: Limit
+      proficiency: Native
   programmingSkills:
     - skill1:
       name: HTML
