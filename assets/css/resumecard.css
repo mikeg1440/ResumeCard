@@ -13,6 +13,10 @@ a:link {
   color: #08fff8;
 }
 
+.avatar {
+  border-radius: 50%;
+}
+
 .btn-dark {
     color: #ffffff;
     text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
