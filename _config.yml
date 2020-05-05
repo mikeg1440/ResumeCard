@@ -1,7 +1,7 @@
 # Site settings
 title: Michael Gaudreau's Resume
 description: A web designed Resume for Michael Gaudreau
-favicon: https://photos.app.goo.gl/6y6gJbXZw2s1UrHMA
+favicon: /assets/img/headshot.jpg
 # favicon: /assets/img/avatar.JPG
 # baseurl: https://ddbullfrog.github.io/resumecard
 # url: https://ddbullfrog.github.io/resumecard
